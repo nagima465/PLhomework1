@@ -1,2 +1,2 @@
-public class TaskA {
+public class  fTaskA {
 }
